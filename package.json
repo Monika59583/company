@@ -1,0 +1,26 @@
+{
+  "name": "sristar-gold-website",
+  "version": "1.0.0",
+  "description": "Sri Star Gold Company - Gold buying and selling services website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site - no build required'",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "gold",
+    "jewelry",
+    "sri-star-gold",
+    "gold-buying",
+    "gold-selling"
+  ],
+  "author": "Sri Star Gold Company",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
